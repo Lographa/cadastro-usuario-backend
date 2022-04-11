@@ -1,6 +1,6 @@
 # cadastro-usuario-backend
 
-npm install;
+<p>npm install;</p>
 node index.js;
-========================
-Modificar arquivo db.js na pasta db para suas próprias configurações
+
+<p>Modificar arquivo db.js na pasta db para suas próprias configurações</p>
